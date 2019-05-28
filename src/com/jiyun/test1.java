@@ -16,7 +16,7 @@ public class test1 {
         System.out.println(d);
         System.out.println(e);
         System.out.println(f);
-
+        System.out.println(1);
         for (int i = 1;i <= 100;i+=2){
             System.out.println(i);
         }
